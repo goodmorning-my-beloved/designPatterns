@@ -9,6 +9,6 @@ public class ProductA2Impl extends ProductA {
 
     @Override
     public void showLevel() {
-        System.out.println("level 1");
+        System.out.println("level 2");
     }
 }
